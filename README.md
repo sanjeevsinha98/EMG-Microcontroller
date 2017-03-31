@@ -1,0 +1,2 @@
+# EMG-Microcontroller
+This code uses the Arduino 101 IMU sensors as well as an EMG signal amplifier in order to use those signals as controls for the microcontroller. This basic microcontroller is a very simple prototype for building prosthese for amputees, who can still send EMG signals to control an application of daily life: in this case, a video game. The code given uses gyroscope readings and EMG signal readings by using power estimation.
